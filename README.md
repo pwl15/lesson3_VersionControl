@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3rd, 2017
 
 ## Student Name:  
-(First and Last Name)
+Paul Lee
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 3 dealt with Version Control. In this lesson, we created and connected our Github.com account to Cloud9 and created 5 highlights about what we learned this lesson.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to create a repository on Github.com 
+2. Learned various git commands and how to push and pull files to the created repository.
+3. Learned the Version Control procedure.
